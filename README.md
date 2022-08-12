@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karan Singh
-- 👀 I’m interested in Software Engineering and actively looking for internships to buld my skillset in the field.
-- 🌱 I have learned Java, C++, SQL and HTML I’m currently learning Python, JavaScript and fundamental concepts of Software Engineering.
+- 👀 I’m interested in Software Engineering and actively looking for internships to build my skillset in the field.
+- 🌱 I have learned JavaScript, C++, SQL, HTML and CSS I’m currently learning taking a course to be a full stack developer.
 - 💞️ I’m looking to collaborate on any personal projects you might need help with.
 - 📫 How to reach me - deepkaran277@gmail.com
 
